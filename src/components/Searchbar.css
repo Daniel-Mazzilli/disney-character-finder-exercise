@@ -1,0 +1,31 @@
+.search {
+    font-size: 24px;
+    margin-top: 70px;
+}
+
+.searchbar {
+    all: unset;
+    background-color: #76d0c0;
+    color: #746bab;
+    border: 2px solid #fbbe4f;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 1px 12px;
+}
+
+.submit {
+    all: unset;
+    background-color: #4a62d8;
+    color: #1ab28a;
+    border: 2px solid #fbbe4f;
+    border-left: none;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 1px 12px;
+}
+
+.submit:hover{
+    color: #fbbe4f;
+    cursor: pointer;
+
+}
